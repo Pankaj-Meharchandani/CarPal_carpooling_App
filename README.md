@@ -27,7 +27,8 @@ To run the app, connect your device or emulator and click on the **Run** button.
 
 This app is still in progress and needs some improvements. If you want to help me with this project, you are welcome to do so. You can fork the repository, make some changes, and create a pull request. I will review your code and merge it if it is suitable. Some of the pending tasks are:
 
-- Fix the maps issue
+-Fix internet connectivity issue 
+-Fix the maps issue
 - Add a rating system for the users
 - Add a payment system for the rides
 - Add more features and functionalities
